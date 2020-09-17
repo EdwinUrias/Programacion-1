@@ -24,3 +24,8 @@ Switch
 For
 #While
 #Ejercicio: Adivina el numero
+##CODE
+numero=7
+Usuario=0
+while usiario != numero
+##VALOR
