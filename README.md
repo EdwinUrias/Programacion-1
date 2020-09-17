@@ -30,4 +30,7 @@ Ejercicio: Adivina el numero
 numero=7
 Usuario=0
 while usiario != numero
+```
 ##VALOR
+```SH
+Texto
