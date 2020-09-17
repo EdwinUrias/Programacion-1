@@ -24,7 +24,7 @@ Switch
 For
 While
 Ejercicio: Adivina el numero
-
+```
 ## CODE
 ```Python
 numero=7
