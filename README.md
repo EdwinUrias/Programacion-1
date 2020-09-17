@@ -20,7 +20,7 @@ condicionales simples
 condicionales dobles
 Condicionales multimples
 condicionales anidadas
-Swithc
-Fro
-While
-Wjwexixio: SICIN wl numweo
+Switch
+For
+#While
+#Ejercicio: Adivina el numero
