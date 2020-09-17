@@ -1,5 +1,5 @@
 # Programacion-1
-´´´SH
+```SH
 Que es la programacion?
 Ramas de la programacion
 Lenguajes de programacion
