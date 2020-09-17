@@ -1,6 +1,13 @@
-# Programacion-1
+# INTRODUCCION
+```sh
+Programacion: Es el proceso de tomar un algoritmo y codificarlo en una notación, un lenguaje de programación, de modo que pueda ser ejecutado por una computadora. 
+Codigo: escribir instrucciones para la computadora.
+Ejemplo de un problema: Registrar a todos los asistentes de un curso. Para esto se crearia un programa donde el asistente ingresa los datos y el sistema los va acomodando en una tabla automaticamente en vez de hacerlo a mano.
+```
+# ALGORITMOS
 ```SH
 Que es la programacion?
+Codigo: escribir instrucciones para la computadora
 Ramas de la programacion
 Lenguajes de programacion
 Definicion
