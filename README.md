@@ -30,6 +30,13 @@ Ejercicio: Adivina el numero
 numero=7
 Usuario=0
 while usiario != numero
+  usuario= int(input("cual es el numero?"))
+  if usuario > numero:
+    print("Digita un numero menor")
+  elsif usuario < numero
+    pint("Digita un numero mayor")
+  else
+    print("Correcto")
 ```
 ## VALOR
 ```SH
