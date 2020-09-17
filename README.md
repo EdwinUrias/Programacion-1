@@ -22,8 +22,9 @@ Condicionales multimples
 condicionales anidadas
 Switch
 For
-#While
-#Ejercicio: Adivina el numero
+While
+Ejercicio: Adivina el numero
+
 ##CODE
 numero=7
 Usuario=0
