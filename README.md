@@ -26,6 +26,7 @@ While
 Ejercicio: Adivina el numero
 
 ##CODE
+```Python
 numero=7
 Usuario=0
 while usiario != numero
