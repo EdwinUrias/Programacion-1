@@ -25,12 +25,12 @@ For
 While
 Ejercicio: Adivina el numero
 
-##CODE
+## CODE
 ```Python
 numero=7
 Usuario=0
 while usiario != numero
 ```
-##VALOR
+## VALOR
 ```SH
 Texto
