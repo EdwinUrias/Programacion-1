@@ -161,35 +161,35 @@ Año bisiesto
 
 **Double**: Es similar a float, pero se utiliza cuando la precisión de una variable de coma flotante no es suficiente. Se utiliza como **double**.
 
-##### EJEMPLO 1
+### EJEMPLO 1
 ```Python
 print(10)
 ```
 ```SH
 10
 ```
-##### EJEMPLO 2
+### EJEMPLO 2
 ```Python
 print("Hola mundo")
 ```
 ```SH
 Hola mundo
 ```
-##### CLASE ENTERO
+### CLASE ENTERO
 ```Python
 print(type(15))
 ```
 ```SH
 <class 'int'>
 ```
-###### CLASE CADENA
+### CLASE CADENA
 ```Python
 Print(type("Edwin"))
 ```
 ```SH
 <class 'str'>
 ```
-###### CLASE BOOLEANO
+### CLASE BOOLEANO
 ```Python
 Print(type(False))
 ```
