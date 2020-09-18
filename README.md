@@ -77,7 +77,7 @@
 ```
 ### DESARROLLO DE ALGORITMO CON DIAGRAMA DE FLUJO
 
-![](/algoritmo.PNg)
+![](/algoritmo.png)
 
 ### DESARROLLO DE ALGORIMO CON PYTHON
 ```Python
