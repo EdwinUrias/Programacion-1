@@ -317,7 +317,14 @@ print (a % b)
           * **Suma** +
             * **Resta** -
     
-
+### Agrupacion de operadores
+**Comparacion**: 
+  * **>**
+  * **<**
+  * **>=**
+  * **<=**
+  * **==**
+  * **!=**
 
 
 
