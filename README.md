@@ -139,7 +139,7 @@ Año bisiesto
 * **Persistencia de datos**: Poder almacenar la informacion de tal manera que no se pierda.
 
 ### TIPOS DE DATOS
-#####PRIMITIVOS
+##### PRIMITIVOS
 
 **Entero**: Numeros positivos o negativos que no tengan decimales. Se utiliza como **int**.
 
@@ -161,8 +161,13 @@ Año bisiesto
 
 **Double**: Es similar a float, pero se utiliza cuando la precisión de una variable de coma flotante no es suficiente. Se utiliza como **double**.
 
-
-
+```Python
+print(10)
+pirnt(""Hola mundo)
+print(type(15))
+Print(type("Edwin"))
+Print(type(False))
+```
 # CICLOS
 ## CODIGO
 ```Python
