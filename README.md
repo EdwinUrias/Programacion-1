@@ -124,6 +124,46 @@ Digite el año:
 2020
 Año bisiesto
 ```
+# VARIABLES Y TIPOS DE DATOS
+### FUNCION DE LA PERSISTENCIA DE LOS DATOS
+* **Bytes**: Conjunto de 8 bits.
+
+* **Bit**: Unidad basica de informacion en todo sistema.
+
+* **Procesador**: Decide la informacion y realiza operaciones.
+
+* **Memoria**:
+    * Ram: acceso aleatorio 
+    * Rom: solo lectura.
+    
+* **Persistencia de datos**: Poder almacenar la informacion de tal manera que no se pierda.
+
+### TIPOS DE DATOS
+#####PRIMITIVOS
+
+**Entero**: Numeros positivos o negativos que no tengan decimales. Se utiliza como **int**.
+
+**Decimal**: Numeros con puntos decimales puede ser negativo o positivo. Se utiliza como **float**.
+
+**Caracter**: Puede ser letras, simbolos o numeros. Se utiliza como **character**.
+
+**Cadena de caracteres**: Es un texto que se compone de una cadena de caractesres. Se utiliza como **string**.
+
+##### LÓGICOS
+
+**Booleano**: Se utilizan cuando solo hay 2 opciones de respuesta en una pregunta sean estos como verdadero o falso. Se utiliza como True o False. Su objetivo es pptimizar el uso de la memoria RAM.
+
+##### TIPOS DE DATOS EN ALGUNOS LENGUAJES DE PROGRAMACION
+
+**Numericos sin signo**: Utilizan (+) o (-) valor absoluto (unsigned).
+
+**Largo / Corto**: Se utilzia para darle dimension a los valores. Se utiliza como **long / short**.
+
+**Double**: Es similar a float, pero se utiliza cuando la precisión de una variable de coma flotante no es suficiente. Se utiliza como **double**.
+
+
+
+# CICLOS
 ## CODIGO
 ```Python
 numero=7
