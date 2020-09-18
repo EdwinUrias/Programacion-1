@@ -242,16 +242,70 @@ print(edad)
 ```
 
 # OPERADORES
-## OPERADORES ARITMETICOS
+### OPERADORES ARITMETICOS
 * Suma
+```Python
+a = 10
+b = 5
+print (a+b)
+```
+```
+15
+```
+* Suma de variables
+```Python
+a = 10
+b = 5
+c= a+b
+print (c)
+```
+```
+15
+```
 
 * Resta
+```Python
+a = 10
+b = 5
+print (a-b)
+```
+```
+5
+```
 
 * Multiplicacion
-
+```Python
+a = 10
+b = 5
+print (a*b)
+```
+```
+50
+```
 * Division
-
+```Python
+a = 10
+b = 5
+print (a/b)
+```
+```
+2.0
+```
 * Módulo %: residuo
+```Python
+a = 10
+b = 5
+print (a%b)
+```
+```
+0
+```
+
+
+
+
+
+
 
 # CICLOS
 ## CODIGO
