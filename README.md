@@ -49,7 +49,6 @@ PARADIGMAS DE PROGRAMACION: son diferentes estilos de usar la programacion para 
 - Cloud9
 - Code everywhere
 - [repl.it](https://repl.it/n)
-   
 # ALGORITMOS
 ### DEFINICION
 ```SH
@@ -94,3 +93,5 @@ while usiario != numero
 ## VALOR
 ```SH
 Texto
+```
+[GitHubDocs](https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax)
