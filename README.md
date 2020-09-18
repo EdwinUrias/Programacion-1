@@ -64,13 +64,19 @@
 - [repl.it](https://repl.it/n)
 # ALGORITMOS
 ### DEFINICION
-```SH
-
-```
+**Programacion**: Conjunto de sieres de pasos para resolver un problema o una necesidad.
+Algoritmo: programacion
 ### CARACTERISTICAS DE ALGORITMO
-```SH
+**DEFINIDO**: Su salida es unica, siempre y cuando los parametros sean los mismos.
+* Preciso.
+* Legible
+* **Finito**: Debe tener un inicio y un final.
 
-```
+**PARTES DE UN ALGORITMO**
+* Entrada.
+* Proceso.
+* Salida: resultados
+
 ### DESARROLLO DE ALGORITMO CON PSEUDOCODIGO
 **PSEUDOCÓDIGO**: Es decir en palabras que entendemos nosotros los humanos de como podemos resolver un problema o necesidad.
 
