@@ -326,7 +326,22 @@ print (a % b)
   * **==**
   * **!=**
 
-
+**Ejemplo en python**
+```Python
+print(7>4)
+print(7<4)
+```
+**Resultado**
+```SH
+True
+False
+```
+* **Negacion**
+* **O,Y**
+```Python
+edad >= 18 && edad < 65
+edad < 18||edad > 64
+```
 
 
 # CICLOS
