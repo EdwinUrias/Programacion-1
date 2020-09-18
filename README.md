@@ -221,6 +221,8 @@ dia = "Viernes"
 
 * **Kebab case**: day-of-the-month = 25
 
+### EJEMPLO DE DECLARACION DE VARIABLE
+##### EJEMPLO 1
 ```Python
 nombre = "Beto"
 print(nombre)
@@ -229,7 +231,7 @@ print(nombre)
 ```SH
 Beto
 ```
-
+##### EJEMPLO 2
 ```Python
 nombre = "Beto"
 edad = 29
@@ -239,6 +241,17 @@ print(edad)
 29
 ```
 
+# OPERADORES
+## OPERADORES ARITMETICOS
+* Suma
+
+* Resta
+
+* Multiplicacion
+
+* Division
+
+* Módulo %: residuo
 
 # CICLOS
 ## CODIGO
