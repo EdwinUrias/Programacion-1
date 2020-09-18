@@ -348,6 +348,73 @@ edad=25
 if edad >= 18 & edad < 65:
   print("eres mayor de edad pero no viejo")
 ```
+# CONDICIONALES
+### CONDICIONALES SIMPLES
+**Estructuras de control**: Ciclos y condicionales.
+
+**Condicionales**: Permiten que el codigo tome decisiones en base a ciertos datos
+
+**Ejemplo**:
+
+Te compro un celular si sacas buenas calificaciones. Si la condicion se cumple algo bueno sucede; si la condicion no se cu,ple sucede otra cosa.
+##### PSEUDOCODIGO
+```
+if (condicion){
+    hacer algo si condicion es true
+    }else{
+    hacer algo si la condicion es false
+}
+```
+### CONDICIONALES DOBLES
+##### Ejemplo en JavaScript
+```JavaScript
+if(5>3){
+  console.log('la condicion es verdadera')
+}else{
+  console.log('la condicion es falsa')
+}
+```
+###### Resultado
+```
+la condicion es verdadera
+```
+
+##### Ejemplo en Python
+```Python
+if 5>3:
+  print('la condicion es verdadera')
+```
+##### Resultado
+```
+la condicion es verdadera
+```
+##### Indentacion Error
+```Python
+if 5>3:
+print('la condicion es verdadera')
+```
+##### Resultado
+
+Se muestra el error de indentacion pro la sintaxis, en python es obligatorio dejar la sangria del codigo.
+
+```
+File "main.py", line 2
+    print('la condicion es verdadera')
+    ^
+IndentationError: expected an indented block
+```
+##### Ejemplo en Python
+
+```Python
+if 5>3:
+  print('texto 1')
+else:
+  print('texto 2')
+```
+##### Resultado
+```
+texto 1
+```
 
 # CICLOS
 ## CODIGO
