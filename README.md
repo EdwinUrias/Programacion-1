@@ -105,7 +105,7 @@ Fin algoritmo
 ### DESARROLLO DE ALGORITMO CON DIAGRAMA DE FLUJO
 ![](/algoritmo.png)
 ### DESARROLLO DE ALGORIMO CON PYTHON
-##### CODIGO
+##### CODIGO EN PYTHON
 ```Python
 print ("Digite el año: ")
 anio = int (input())
@@ -222,7 +222,7 @@ dia = "Viernes"
 * **Kebab case**: day-of-the-month = 25
 
 ### EJEMPLO DE DECLARACION DE VARIABLE
-##### EJEMPLO 1
+### EJEMPLO EN PYTHON
 ```Python
 nombre = "Beto"
 print(nombre)
@@ -231,7 +231,7 @@ print(nombre)
 ```SH
 Beto
 ```
-##### EJEMPLO 2
+### EJEMPLO EN PYTHON
 ```Python
 nombre = "Beto"
 edad = 29
@@ -245,6 +245,7 @@ print(edad)
 # OPERADORES
 ### OPERADORES ARITMETICOS
 * **Suma**
+
 ```Python
 a = 10
 b = 5
@@ -415,6 +416,67 @@ else:
 ```
 texto 1
 ```
+
+### CONDICIONALES MULTIPLES
+### Ejemplo en Javascript
+```JavaScript
+if (5>6){
+  console.log('A')
+}else if(8>10){
+  console.log('B')
+}else if(5>3){
+  console.log('C')
+}else{
+  console.log('D')
+}
+```
+### Resultado
+```
+C
+```
+### Otro ejemplo en JavaScript
+```JavaScript
+let edad = 29
+if (edad >= 18 || edad<20){
+  console.log('A')
+}else{
+  console.log('B')
+}
+```
+#### Resultado
+```
+A
+```
+### CONDICIONALES ANIDADAS
+
+
+
+
+### SWITCH
+Nos permite validar un dato frente a una serie de datos comparandolo
+### CODIGO EN JAVASCRIPT
+```JavaScript
+let dia = 'viernes'
+if (dia === 'lunes'){
+  console.log('Odio mi vida')
+}else if (dia === 'viernes'){
+  console.log('nos vamos de fiesta')
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # CICLOS
 ## CODIGO
