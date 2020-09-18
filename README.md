@@ -72,13 +72,22 @@
 
 ```
 ### DESARROLLO DE ALGORITMO CON PSEUDOCODIGO
-```SH
 
+```SH
+Modulo = Residuo
+ALGORITMO AÑO BISIESTO
+Escribir "Ingrese el año:";
+Leer año;
+Si ((año modulo 4=0) y (año modulo 100<>0))
+  o año modulo 400=0 entonces
+    Escribir "el año es bisiesto";
+  Si No
+    Escribir"el año no es bisiesto",
+  Fin Si
+Fin algoritmo
 ```
 ### DESARROLLO DE ALGORITMO CON DIAGRAMA DE FLUJO
-
 ![](/algoritmo.png)
-
 ### DESARROLLO DE ALGORIMO CON PYTHON
 ##### CODIGO
 ```Python
@@ -99,7 +108,7 @@ Digite el año:
 2020
 Año bisiesto
 ```
-## CODE
+## CODIGO
 ```Python
 numero=7
 Usuario=0
