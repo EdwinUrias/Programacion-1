@@ -163,10 +163,33 @@ Año bisiesto
 
 ```Python
 print(10)
-pirnt("Hola mundo")
+```
+```SH
+10
+```
+```Python
+print("Hola mundo")
+```
+```SH
+Hola mundo
+```
+```Python
 print(type(15))
+```
+```SH
+<class 'int'>
+```
+```Python
 Print(type("Edwin"))
+```
+```SH
+<class 'str'>
+```
+```Python
 Print(type(False))
+```
+```SH
+<class 'bool'>
 ```
 # CICLOS
 ## CODIGO
