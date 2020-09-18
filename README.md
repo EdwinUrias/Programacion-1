@@ -196,6 +196,50 @@ Print(type(False))
 ```SH
 <class 'bool'>
 ```
+
+**Variable**: Espacios de memoria reservados para lamacenar un dato.
+
+```
+Dia= "Viernes"
+Current_month="October"
+```
+**Decaracion de una variable**: asignarle un nombre.
+
+Ejemplo:
+```
+current_month = "October"; 
+dia = "Viernes"
+```
+**Consejo**: Tomar un estandard para declarar variables preferentemente en ingles y que la variable sea intuitiva.
+
+### TIPOS DE ESCRITURA PARA LAS VARIABLES (ESTANDARES)
+* **Camel case**: dayOfTheMonth = 25
+
+* **Pascal case**: DayOfTheMonth = 25
+
+* **Snake case**: day_of_the_month = 25
+
+* **Kebab case**: day-of-the-month = 25
+
+```Python
+nombre = "Beto"
+print(nombre)
+```
+
+```SH
+Beto
+```
+
+```Python
+nombre = "Beto"
+edad = 29
+print(edad)
+```
+```SH
+29
+```
+
+
 # CICLOS
 ## CODIGO
 ```Python
