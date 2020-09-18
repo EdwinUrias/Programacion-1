@@ -37,8 +37,8 @@ PARADIGMAS DE PROGRAMACION: son diferentes estilos de usar la programacion para 
 ```
 ### HERRAMIENTAS
 
-EDITOR: Es un programa sencillo para editar codigo.
-IDE (Integrated Development Enviroment)Entorno integrado de desarrollo: es un editor que se utilzia al 
+**EDITOR**: Es un programa sencillo para editar codigo.
+**IDE (Integrated Development Enviroment)Entorno integrado de desarrollo**: es un editor que se utilzia al 
     crear un proyecto ademas compila, Arroja errores y tiene entornos para hacer pruebas.
 *  Visual Studio
 *  Android Studio
