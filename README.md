@@ -72,9 +72,17 @@
 
 ```
 ### DESARROLLO DE ALGORITMO CON PSEUDOCODIGO
+**PSEUDOCÓDIGO**: Es decir en palabras que entendemos nosotros los humanos de como podemos resolver un problema o necesidad.
 
+1. Tener un enunciado del problema o necesidad claro, conciso y completo.
+2. Analizar los datos que se van a procesar
+   - Datos de entrada.
+   - Datos de salida.
+   - Formulas que procesaran los datos.
+   - Datos de prueba.
+3. Identificar varias soluciones posibles.
 ```SH
-Modulo = Residuo
+//Modulo = Residuo
 ALGORITMO AÑO BISIESTO
 Escribir "Ingrese el año:";
 Leer año;
