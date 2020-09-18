@@ -36,19 +36,19 @@ PARADIGMAS DE PROGRAMACION: son diferentes estilos de usar la programacion para 
   -Funcional: Divide el programa en tareas pequeñas que son ejecutados por funciones.
 ```
 ### HERRAMIENTAS
-```SH
+
 EDITOR: Es un programa sencillo para editar codigo.
 IDE (Integrated Development Enviroment)Entorno integrado de desarrollo: es un editor que se utilzia al 
-  crear un proyecto. Compila;Arroja errores y tiene entornos para hacer pruebas
-  Visual Studio
-  Android Studio
-  IntelliJ Idea
-  Codepen
-  Stackblitz
-  Cloud9
-  Code everywhere
-  https://repl.it/n
-```
+    crear un proyecto ademas compila, Arroja errores y tiene entornos para hacer pruebas.
+*  Visual Studio
+*  Android Studio
+*  IntelliJ Idea
+*  Codepen
+*  Stackblitz
+*  Cloud9
+* Code everywhere
+* [repl.it](https://repl.it/n)
+   
 # ALGORITMOS
 ### DEFINICION
 ```SH
