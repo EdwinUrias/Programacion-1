@@ -249,6 +249,7 @@ a = 10
 b = 5
 print (a+b)
 ```
+Resultado
 ```
 15
 ```
@@ -259,6 +260,7 @@ b = 5
 c= a+b
 print (c)
 ```
+Resultado
 ```
 15
 ```
@@ -269,6 +271,7 @@ a = 10
 b = 5
 print (a-b)
 ```
+Resultado
 ```
 5
 ```
@@ -279,6 +282,7 @@ a = 10
 b = 5
 print (a*b)
 ```
+Resultado
 ```
 50
 ```
@@ -288,6 +292,7 @@ a = 10
 b = 5
 print (a/b)
 ```
+Resultado
 ```
 2.0
 ```
@@ -295,8 +300,9 @@ print (a/b)
 ```Python
 a = 10
 b = 5
-print (a%b)
+print (a % b)
 ```
+Resultado
 ```
 0
 ```
