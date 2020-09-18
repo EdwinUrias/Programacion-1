@@ -339,10 +339,15 @@ False
 * **Negacion**
 * **O,Y**
 ```Python
-edad >= 18 && edad < 65
-edad < 18||edad > 64
+edad=25
+if edad < 18 | edad > 65:
+  print("eres mayor de edad pero no viejo")
 ```
-
+```Python
+edad=25
+if edad >= 18 & edad < 65:
+  print("eres mayor de edad pero no viejo")
+```
 
 # CICLOS
 ## CODIGO
