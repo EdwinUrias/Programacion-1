@@ -308,9 +308,11 @@ print (a % b)
 ```
 
 ### Jerarquia de operadores
-* **Parentesis
-  * **Multiplicacion 
-    * **Division
+* **Parentesis ()
+  * **Multiplicacion *
+    * **Division /
+      * **Modulo %
+    
 
 
 
