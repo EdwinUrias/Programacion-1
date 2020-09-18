@@ -20,7 +20,7 @@
 
 **Realidad Virtual**: Programacion enfocada a los sistemas de VR o realidad virtual.
 
-**REALIDAD AUMENTADA**: Programacion enfocada a los sistemas que combinan el entorno real con el entorno virtual.
+**Realidad Aumentada**: Programacion enfocada a los sistemas que combinan el entorno real con el entorno virtual.
                     Ejemplo: Pokemon GO
 
 **Inteligencia Artificial**: Donde las computadoras pueden tomar decisiones por si mismsas
@@ -78,7 +78,7 @@ Algoritmo: programacion
 * Salida: resultados
 
 ### DESARROLLO DE ALGORITMO CON PSEUDOCODIGO
-**PSEUDOCÓDIGO**: Es decir en palabras que entendemos nosotros los humanos de como podemos resolver un problema o necesidad.
+**Pseudocódigo**: Es decir en palabras que entendemos nosotros los humanos de como podemos resolver un problema o necesidad.
 
 **Como resolver un problema o necesidad**
 
