@@ -80,6 +80,7 @@
 ![](/algoritmo.png)
 
 ### DESARROLLO DE ALGORIMO CON PYTHON
+##### CODIGO
 ```Python
 print ("Digite el año: ")
 anio = int (input())
@@ -88,6 +89,7 @@ if (anio % 4==0 and anio % 100 !=0) or anio % 400==0:
 else:
     print ("Año no bisiesto")
 ```
+##### RESULTADO
 ```SH
 Digite el año: 
 2019
