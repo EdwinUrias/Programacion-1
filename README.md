@@ -418,7 +418,7 @@ texto 1
 ```
 
 ### CONDICIONALES MULTIPLES
-### Ejemplo en Javascript
+#### Ejemplo en Javascript
 ```JavaScript
 if (5>6){
   console.log('A')
@@ -430,11 +430,11 @@ if (5>6){
   console.log('D')
 }
 ```
-### Resultado
+#### Resultado
 ```
 C
 ```
-### Otro ejemplo en JavaScript
+#### Otro ejemplo en JavaScript
 ```JavaScript
 let edad = 29
 if (edad >= 18 || edad<20){
@@ -448,13 +448,43 @@ if (edad >= 18 || edad<20){
 A
 ```
 ### CONDICIONALES ANIDADAS
-
-
-
-
+#### Ejemplo en JavaScript
+```JavaScript
+let edad = 29
+let mayorDeEdad = edad >= 18 || edad < 20
+if (mayorDeEdad){
+  console.log('A')
+}else{
+  console.log('B')
+}
+```
+#### Resultado
+```
+A
+```
+#### Ejemplo en JavaScript
+```JavaScript
+let edad = 29
+let mayorDeEdad = edad >= 18 || edad < 20
+if (mayorDeEdad){
+  console.log('A')
+  if(5>3){
+    console.log('B')
+  }else{
+    console.log('B2')
+  }
+}else{
+  console.log('C')
+}
+```
+#### Resultado
+```
+A
+B
+```
 ### SWITCH
 Nos permite validar un dato frente a una serie de datos comparandolo
-### CODIGO EN JAVASCRIPT
+#### Codigo en JavaScript
 ```JavaScript
 let dia = 'viernes'
 if (dia === 'lunes'){
@@ -463,11 +493,64 @@ if (dia === 'lunes'){
   console.log('nos vamos de fiesta')
 }
 ```
-
-
-
-
-
+#### Resultado
+```
+nos vamos de fiesta
+```
+#### Ejemplo en JavaScript
+```JavaScript
+let dia = 'viernes'
+switch (dia){
+  case 'lunes':
+  console.log('odio mi vida')
+  break;
+  case 'viernes':
+  console.log('Nos vamos de fiesta')
+  default:
+  console.log('No se que dia es hoy')
+}
+```
+#### Resultado
+```
+Nos vamos de fiesta
+No se que dia es hoy // manda este mensaje por que falto un break
+```
+#### Ejemplo en JavaScript
+```JavaScript
+let dia = 'viernes'
+switch (dia){
+  case 'lunes':
+  console.log('odio mi vida')
+  break;
+  case 'viernes':
+  console.log('Nos vamos de fiesta')
+  break;
+  default:
+  console.log('No se que dia es hoy')
+}
+```
+#### Resultado
+```
+Nos vamos de fiesta
+```
+#### Ejemplo en JavaScript
+```JavaScript
+let dia = 'lunes'
+switch (dia){
+  case 'lunes':
+  console.log('odio mi vida')
+  break;
+  case 'viernes':
+  console.log('Nos vamos de fiesta')
+  break;
+  default:
+  console.log('No se que dia es hoy')
+}
+```
+#### Resultado
+```
+odio mi vida
+```
 
 
 
