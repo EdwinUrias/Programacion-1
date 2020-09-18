@@ -163,7 +163,7 @@ Año bisiesto
 
 ```Python
 print(10)
-pirnt(""Hola mundo)
+pirnt("Hola mundo")
 print(type(15))
 Print(type("Edwin"))
 Print(type(False))
