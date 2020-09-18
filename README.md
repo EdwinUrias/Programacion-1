@@ -76,11 +76,9 @@
 
 ```
 ### DESARROLLO DE ALGORITMO CON DIAGRAMA DE FLUJO
-```SH
-Inicio
 
-Fin
-```
+![](/algoritmo.PNg)
+
 ### DESARROLLO DE ALGORIMO CON PYTHON
 ```Python
 print ("Digite el año: ")
