@@ -90,6 +90,15 @@ if (anio % 4==0 and anio % 100 !=0) or anio % 400==0:
 else:
     print ("Año no bisiesto")
 ```
+```SH
+Digite el año: 
+2019
+Año no bisiesto
+---------------
+Digite el año: 
+2020
+Año bisiesto
+```
 ## CODE
 ```Python
 numero=7
